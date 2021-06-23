@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://pseudosma.github.io/csb-vlh9l/static/js/main.5047ab09.chunk.js",
+    "main.js.map": "https://pseudosma.github.io/csb-vlh9l/static/js/main.5047ab09.chunk.js.map",
+    "runtime-main.js": "https://pseudosma.github.io/csb-vlh9l/static/js/runtime-main.215816a4.js",
+    "runtime-main.js.map": "https://pseudosma.github.io/csb-vlh9l/static/js/runtime-main.215816a4.js.map",
+    "static/js/2.2277fd4b.chunk.js": "https://pseudosma.github.io/csb-vlh9l/static/js/2.2277fd4b.chunk.js",
+    "static/js/2.2277fd4b.chunk.js.map": "https://pseudosma.github.io/csb-vlh9l/static/js/2.2277fd4b.chunk.js.map",
+    "index.html": "https://pseudosma.github.io/csb-vlh9l/index.html",
+    "static/js/2.2277fd4b.chunk.js.LICENSE.txt": "https://pseudosma.github.io/csb-vlh9l/static/js/2.2277fd4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.215816a4.js",
+    "static/js/2.2277fd4b.chunk.js",
+    "static/js/main.5047ab09.chunk.js"
+  ]
+}
